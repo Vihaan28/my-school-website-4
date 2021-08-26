@@ -1,0 +1,54 @@
+body{
+    text-align: center;
+    background:linear-gradient(#26e9f0 0%, #138d91 100%);
+}
+
+#introvideo{
+    width: 80%;
+    height: 70%;
+    border-width: 5px;
+    border-color: black;
+}
+
+ul{
+    float: left;
+    display: inline-block;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    
+}
+
+.links {
+    display: inline;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-top: 9px;
+}
+#contact a{
+    display: inline;
+    font-size: 15px;
+    color:aliceblue;
+    
+} 
+.end{
+background-color:firebrick;
+}
+
+#contact iframe{
+width: 100%;
+}
+#bbps{
+    color:white;
+}
+
+#marqueeee{
+    width: 100%;
+    height: 100px;
+}
+
+#Acheivments{
+    padding-bottom: 10px;
+    
+}
+
